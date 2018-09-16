@@ -1,10 +1,8 @@
 # PyQt 스터디 연습과제 1
----
 계산기 만들어보기 (2018.09.14)
 Deadline : 2018.09.20
 
 ## Detail
----
 UI는 다음과 같다.
 
 ![Basic UI](BasicUI.PNG)
